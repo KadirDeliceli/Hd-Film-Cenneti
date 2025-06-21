@@ -1,4 +1,4 @@
-# 🎬 Film İnceleme Sitesi
+🎬 Film İnceleme Sitesi
 
 Bu proje, kullanıcıların film listelerini görüntüleyip beğenme, kaydetme, puanlama, yorum yapma ve izlenme bilgilerini takip etmesine olanak tanıyan basit bir PHP tabanlı film sitesi uygulamasıdır.
 
